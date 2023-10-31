@@ -1,2 +1,6 @@
 nombre:David
 apellidos:rodriguez
+edad:44
+aficiones:
+     -musica
+     -cine
