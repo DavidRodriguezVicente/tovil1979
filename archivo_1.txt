@@ -4,3 +4,6 @@ edad:44
 aficiones:
      -musica
      -cine
+curriculum:
+     -metrologo
+     
